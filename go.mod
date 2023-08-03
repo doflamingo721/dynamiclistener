@@ -2,7 +2,7 @@ module github.com/rancher/dynamiclistener
 
 go 1.19
 
-replace github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher1
+replace github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher2
 
 require (
 	github.com/rancher/wrangler v1.1.0
@@ -42,7 +42,7 @@ require (
 	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
-	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc // indirect
+	github.com/rancher/lasso v0.0.0-20230629200414-8a54b32e6792 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b // indirect
 	golang.org/x/sync v0.1.0 // indirect
